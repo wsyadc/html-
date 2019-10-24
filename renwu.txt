@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<style>
+.color-red{
+color:red;
+}
+.color-blue{
+color-blue;
+}
+.background-color{
+background-color:green;
+}
+.SimSun{
+font-family:SimSun;
+}
+.SimHei{
+font-family:SimHei;
+}
+
+</style>
+<head>
+<title>任务</title>
+<h1 class="color-red";>任务<h1>
+</head>
+
+<body class="background-color SimSun">
+<h2  class="SimHei color-blue">技术人员之灵魂拷问</h2>
+<img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=825462193,191532577&fm=26&gp=0.jpg" alt="努力工作的程序员">
+<main>  
+<html>
+<form action="https://github.com/wsyadc/Twitch/blob/master/10">
+<p> 姓名</p>
+<input type="text">  
+<p>为什么想学技术?</p>
+<input type="text" placeholder="梦想or技能">
+<p>你曾为技术肝到几点？</p>
+<label for="24:00">
+  <input for="24:00" type="checkbox" name="personality">24:00
+  </label>
+<label for="3:00">
+  <input for="3:00" type="checkbox" name="personality">3:00
+  </label>
+<label for="通宵">
+  <input for="通宵" type="checkbox" name="personality">通宵
+  </label>    
+<p>你那么你感受到过肝任务的快乐吗<p>
+<label for="yes">
+  <input id="yes" type="radio" name="yesorno">yes
+</label>
+<label for="no">
+  <input id="no" type="radio" name="yesorno">no
+</label>
+<p>你认为你学过的最难的技术是那个？</p>
+<input type="text">
+<p>最后一个问题 你有女盆友嘛</p>
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1571939621132&di=52a42104c41d568ad520bcf5cdd62d54&imgtype=0&src=http%3A%2F%2Fimg.qqzhi.com%2Fuploads%2F2019-02-06%2F063059183.jpg" alt="手动滑稽“>
+<input type="text" required>
+<button type="summit">Click Me！
+</button>  
+</form> 
+</main>
